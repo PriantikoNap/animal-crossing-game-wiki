@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Hello 👾
-I want to build User Interface for Animal Crossing New Horizons, I get API from http://acnhapi.com, big thank form acnhapi teams 👍🏻, Feel free to join our project 🌱
+I want to build User Interface for Animal Crossing New Horizons, I get API from http://acnhapi.com, big thank to acnhapi teams 👍🏻, Feel free to join our project 🌱
 
 ## Thanks
 please support developer http://acnhapi.com Teams 
