@@ -11,4 +11,4 @@ please support developer http://acnhapi.com Teams
 ## Contact Me
 Twiiter : @priantikoNap
 
-![Test Image 3](/switch.png)
+![Test Image 3](/switch.jpg)
