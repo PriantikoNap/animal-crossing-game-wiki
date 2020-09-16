@@ -11,8 +11,9 @@ function App() {
   return (
     <div className="App">
       <div className="container-fluid">
-      <CREATURES />
+      {/* <CREATURES /> */}
      {/* <FISHDOC /> */}
+     <FISHDOC />
      </div>
     </div>
   );
